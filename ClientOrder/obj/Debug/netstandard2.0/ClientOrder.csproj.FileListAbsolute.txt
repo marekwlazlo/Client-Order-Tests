@@ -1,0 +1,8 @@
+C:\Users\Marek\source\repos\ClientOrder\ClientOrder\bin\Debug\netstandard2.0\ClientOrder.deps.json
+C:\Users\Marek\source\repos\ClientOrder\ClientOrder\bin\Debug\netstandard2.0\ClientOrder.dll
+C:\Users\Marek\source\repos\ClientOrder\ClientOrder\bin\Debug\netstandard2.0\ClientOrder.pdb
+C:\Users\Marek\source\repos\ClientOrder\ClientOrder\obj\Debug\netstandard2.0\ClientOrder.csprojAssemblyReference.cache
+C:\Users\Marek\source\repos\ClientOrder\ClientOrder\obj\Debug\netstandard2.0\ClientOrder.AssemblyInfoInputs.cache
+C:\Users\Marek\source\repos\ClientOrder\ClientOrder\obj\Debug\netstandard2.0\ClientOrder.AssemblyInfo.cs
+C:\Users\Marek\source\repos\ClientOrder\ClientOrder\obj\Debug\netstandard2.0\ClientOrder.dll
+C:\Users\Marek\source\repos\ClientOrder\ClientOrder\obj\Debug\netstandard2.0\ClientOrder.pdb
